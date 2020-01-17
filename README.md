@@ -10,6 +10,6 @@ Isolation forest : https://scikit-learn.org/stable/modules/generated/sklearn.ens
 
 # Process
 1. To build more robust model, compared one class SVM with Isolation forest.  
-> Isolation has more pricise accuracy. 
+> Isolation Forest has more pricise accuracy. 
 2. Used Grid search to tune the parameters in Isoloation forest. 
-> result : {'contamination': 0.01, 'random_state': 333, 'max_samples': 25, 'max_features': 32}
+> Result : {'contamination': 0.01, 'random_state': 333, 'max_samples': 25, 'max_features': 32}
